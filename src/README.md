@@ -19,3 +19,5 @@ El sionismo es un movimiento nacionalista que persigue la creación de un Estado
 1. >En 1948, Israel ganó la Guerra de la Independencia y pasó a ocupar el 77% del territorio, incluido el oeste de Jerusalén. Bajo dominio egipcio quedó la Franja de Gaza y bajo dominio jordano, Cisjordania (incluido Jerusalén Este).
 
 2. >Por un lado, Israel considera que las potencias árabes buscaban destruir el recién creado Estado de Israel. Algunos historiadores críticos consideran que las potencias árabes intervinieron para proteger a la población palestina, que ya antes de la independencia de Israel sufrió desplazamientos mediante planes de conquista militar israelíes como el Plan Dalet. Otros consideran que las potencias árabes vieron en el plan de partición de la ONU una nueva muestra de colonialismo occidental.
+
+`git add git status styles fuerza palestina`
