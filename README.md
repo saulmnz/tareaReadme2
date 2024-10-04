@@ -8,9 +8,6 @@
 > ~~Por 138 votos contra 9 y 41 abstenciones, la Asamblea General aprobó una resolución por la que otorgó a Palestina la condición de Estado observador no miembro en las Naciones Unidas. Mahmoud Abbas (centro, primera fila), Presidente de la Autoridad Palestina, con su delegación en el Salón de la Asamblea General tras la decisión de la Asamblea. 29 de noviembre de 2012. Naciones Unidas, Nueva York. Foto ONU.~~
 
 
-![Imagen2.jpg](..%2FImagen2.jpg)
-
-
 ## Clave 1 para entender el conflicto de israel:
 + >La creación del Estado de Israel y el problema demográfico
 El sionismo es un movimiento nacionalista que persigue la creación de un Estado judío y democrático en la Tierra Prometida del judaísmo, localizada en la Palestina histórica. Movidos por razones económicas, nacional-religiosas y humanitarias, los judíos comenzaron a emigrar hacia esta Tierra Prometida en 1881. La primera oleada judía a gran escala tuvo lugar en la década de 1930, en pleno Mandato Británico, como consecuencia de la persecución nazi.
